@@ -46,10 +46,11 @@ The system was developed and tested using the following textbooks:
 1. "Never Split the Difference"
 2. "How to Talk to Anyone"
 3. "What to Say When You Talk to Yourself"
+📁 You'll find these books in the 'data' folder of this repository.
 
 ## 🚀 Setup and Usage
 
-Detailed instructions for setting up and using the system are provided in the NOTEBOOKS. This includes information on:
+Detailed instructions for setting up and using the system are provided in the 📁 "NOTEBOOKS" folder. This includes information on:
 - Required dependencies
 - Steps for content extraction and indexing
 - How to run queries and generate answers
