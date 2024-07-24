@@ -54,7 +54,7 @@ Detailed instructions for setting up and using the system are provided in the NO
 - Steps for content extraction and indexing
 - How to run queries and generate answers
 
-##🚀 Future Development
+## 🚀 Future Development
 🔮 The app version of this tool is currently in progress. 
 I'm working on creating a user-friendly application that will make this tool even easier to use.
 
