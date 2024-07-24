@@ -46,7 +46,7 @@ The system was developed and tested using the following textbooks:
 1. "Never Split the Difference"
 2. "How to Talk to Anyone"
 3. "What to Say When You Talk to Yourself"
-📁 You'll find these books in the 'data' folder of this repository.
+   📁 You'll find these books in the 'data' folder of this repository.
 
 ## 🚀 Setup and Usage
 
