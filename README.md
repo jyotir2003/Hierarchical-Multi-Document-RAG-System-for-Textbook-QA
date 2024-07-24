@@ -1,1 +1,1 @@
-# Hierarchical-Textbook-QA-System
+Hierarchical Multi-Document RAG System for Textbook QA
