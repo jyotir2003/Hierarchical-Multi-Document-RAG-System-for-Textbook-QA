@@ -54,13 +54,15 @@ Detailed instructions for setting up and using the system are provided in the NO
 - Steps for content extraction and indexing
 - How to run queries and generate answers
 
+##🚀 Future Development
+🔮 The app version of this tool is currently in progress. 
+I'm working on creating a user-friendly application that will make this tool even easier to use.
+
 ## 📝 Note
 
 This system is designed to run in a Kaggle notebook environment with GPU support. Modifications may be necessary to run it in other environments.
 
 For any questions or issues, please open an issue in this repository. 🙋‍♂️🙋‍♀️
-
-
 
 
 
